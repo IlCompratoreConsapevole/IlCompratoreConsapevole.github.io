@@ -1,2 +1,2 @@
 # Lascia una donazione se vuoi sostenermi
-![](/assets/invoice/)
+![Scannerizza il QR per una donazione](/assets/invoice/Invoice.png)
