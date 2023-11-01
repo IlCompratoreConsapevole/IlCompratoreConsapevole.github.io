@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+body {
+    min-width: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.invoice {
+    display: block;
+    margin: 10px auto;
+}
+
+.stringa {
+    text-align: center;
+}
