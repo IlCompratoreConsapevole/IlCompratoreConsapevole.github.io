@@ -1,8 +1,6 @@
 * {
-    box-sizing: border-box;
-    margin: 10px;
+    box-sizing: border-box; 
 }
-
 body {
     min-width: 100px;
 }
@@ -19,3 +17,11 @@ h1 {
 .stringa {
     text-align: center;
 }
+
+code {
+    min-width: 100px;
+    background-color: #eee;
+    border-radius: 3px;
+    padding: 0 3px;
+    overflow: auto;
+  }
