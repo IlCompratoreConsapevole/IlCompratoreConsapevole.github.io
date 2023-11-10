@@ -22,6 +22,7 @@ code {
     min-width: 100px;
     background-color: #eee;
     border-radius: 3px;
-    padding: 0 3px;
+    padding: 10px;
     overflow: auto;
+    display: inline-block;
   }
