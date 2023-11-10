@@ -5,16 +5,12 @@ body {
     min-width: 100px;
 }
 
-h1 {
-    text-align: center;
-}
-
 .invoice {
     display: block;
     margin: 10px auto;
 }
 
-.stringa {
+.center {
     text-align: center;
 }
 
@@ -26,3 +22,10 @@ code {
     overflow: auto;
     display: inline-block;
   }
+  
+  @media (max-width: 600px) {
+    body {
+        font-size: 10px;
+    }
+}
+
